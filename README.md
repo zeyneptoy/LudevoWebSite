@@ -13,3 +13,4 @@
 * "Ceyhun Karakan" <eceyhun.karakan@std.hku.edu.tr>
 * "Erdenay Özkanlı" <erdenayozkanli@gmail.com>
 * "Vahdet Cemil Altun" <vahdet.altun@std.hku.edu.tr>
+* "Seydi Demir" <seydi.demir@std.hku.edu.tr>
