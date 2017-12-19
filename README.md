@@ -10,3 +10,4 @@
 * "Eyüp Kazım Göymen" <eyup.goymen@std.hku.edu.tr>
 * "Deniz Cakmak" <bdeniz.cakmak@std.hku.edu.tr>
 * "Rıdvan DAYANÇ" <by_rdv@hotmail.com.tr>
+* "Ceyhun Karakan" <eceyhun.karakan@std.hku.edu.tr>
