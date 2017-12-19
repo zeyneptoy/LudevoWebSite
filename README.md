@@ -9,3 +9,4 @@
 * "Halil İbrahim Ceylan" <hibrahim.ceylan@std.hku.edu.tr>
 * "Eyüp Kazım Göymen" <eyup.goymen@std.hku.edu.tr>
 * "Deniz Cakmak" <bdeniz.cakmak@std.hku.edu.tr>
+* "Rıdvan DAYANÇ" <by_rdv@hotmail.com.tr>
