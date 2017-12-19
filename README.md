@@ -7,3 +7,4 @@
 ## <a name="team-members"></a>Team Members
 * "Nihat Yılmaz Şimşek" <nihatysimsek@gmail.com>
 * "Halil İbrahim Ceylan" <hibrahim.ceylan@std.hku.edu.tr>
+* "Eyup Kazım Göymen" <eyup.goymen@std.hku.edu.tr>
